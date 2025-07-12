@@ -1,6 +1,24 @@
 {
     "userone.amd@gmail.com": [
         {
+            "StartTime": "2025-07-17T10:15:00+05:30",
+            "EndTime": "2025-07-17T10:45:00+05:30",
+            "NumAttendees": 1,
+            "Attendees": [
+                "userone.amd@gmail.com"
+            ],
+            "Summary": "Userone's Conflicting Meeting"
+        },
+        {
+            "StartTime": "2025-07-17T10:15:00+05:30",
+            "EndTime": "2025-07-17T10:45:00+05:30",
+            "NumAttendees": 1,
+            "Attendees": [
+                "userone.amd@gmail.com"
+            ],
+            "Summary": "Userone's Conflicting Meeting"
+        },
+        {
             "StartTime": "2025-07-17T18:00:00+05:30",
             "EndTime": "2025-07-18T09:00:00+05:30",
             "NumAttendees": 0,
@@ -9,6 +27,24 @@
         }
     ],
     "usertwo.amd@gmail.com": [
+        {
+            "StartTime": "2025-07-17T10:00:00+05:30",
+            "EndTime": "2025-07-17T10:30:00+05:30",
+            "NumAttendees": 1,
+            "Attendees": [
+                "usertwo.amd@gmail.com"
+            ],
+            "Summary": "Usertwo's Conflicting Meeting"
+        },
+        {
+            "StartTime": "2025-07-17T10:00:00+05:30",
+            "EndTime": "2025-07-17T10:30:00+05:30",
+            "NumAttendees": 1,
+            "Attendees": [
+                "usertwo.amd@gmail.com"
+            ],
+            "Summary": "Usertwo's Conflicting Meeting"
+        },
         {
             "StartTime": "2025-07-17T18:00:00+05:30",
             "EndTime": "2025-07-18T09:00:00+05:30",
