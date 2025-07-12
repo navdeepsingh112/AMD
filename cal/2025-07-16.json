@@ -1,0 +1,36 @@
+{
+    "userone.amd@gmail.com": [
+        {
+            "StartTime": "2025-07-16T18:00:00+05:30",
+            "EndTime": "2025-07-17T09:00:00+05:30",
+            "NumAttendees": 0,
+            "Attendees": [],
+            "Summary": "Off Hours"
+        }
+    ],
+    "usertwo.amd@gmail.com": [
+        {
+            "StartTime": "2025-07-16T18:00:00+05:30",
+            "EndTime": "2025-07-17T09:00:00+05:30",
+            "NumAttendees": 0,
+            "Attendees": [],
+            "Summary": "Off Hours"
+        }
+    ],
+    "userthree.amd@gmail.com": [
+        {
+            "StartTime": "2025-07-16T10:00:00+05:30",
+            "EndTime": "2025-07-16T11:00:00+05:30",
+            "NumAttendees": 0,
+            "Attendees": [],
+            "Summary": "Customer Call - Quarterly update"
+        },
+        {
+            "StartTime": "2025-07-16T16:00:00+05:30",
+            "EndTime": "2025-07-17T07:30:00+05:30",
+            "NumAttendees": 0,
+            "Attendees": [],
+            "Summary": "Off Hours"
+        }
+    ]
+}

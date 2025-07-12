@@ -1,0 +1,43 @@
+{
+    "userone.amd@gmail.com": [
+        {
+            "StartTime": "2025-07-15T18:00:00+05:30",
+            "EndTime": "2025-07-16T09:00:00+05:30",
+            "NumAttendees": 0,
+            "Attendees": [],
+            "Summary": "Off Hours"
+        }
+    ],
+    "usertwo.amd@gmail.com": [
+        {
+            "StartTime": "2025-07-15T09:00:00+05:30",
+            "EndTime": "2025-07-15T16:00:00+05:30",
+            "NumAttendees": 0,
+            "Attendees": [],
+            "Summary": "AMD AI Workshop"
+        },
+        {
+            "StartTime": "2025-07-15T18:00:00+05:30",
+            "EndTime": "2025-07-16T09:00:00+05:30",
+            "NumAttendees": 0,
+            "Attendees": [],
+            "Summary": "Off Hours"
+        }
+    ],
+    "userthree.amd@gmail.com": [
+        {
+            "StartTime": "2025-07-15T09:00:00+05:30",
+            "EndTime": "2025-07-15T16:00:00+05:30",
+            "NumAttendees": 0,
+            "Attendees": [],
+            "Summary": "AMD AI Workshop"
+        },
+        {
+            "StartTime": "2025-07-15T16:00:00+05:30",
+            "EndTime": "2025-07-16T07:30:00+05:30",
+            "NumAttendees": 0,
+            "Attendees": [],
+            "Summary": "Off Hours"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "userone.amd@gmail.com": [
+        {
+            "StartTime": "2025-07-09T18:00:00+05:30",
+            "EndTime": "2025-07-10T09:00:00+05:30",
+            "NumAttendees": 0,
+            "Attendees": [],
+            "Summary": "Off Hours"
+        }
+    ],
+    "usertwo.amd@gmail.com": [
+        {
+            "StartTime": "2025-07-09T18:00:00+05:30",
+            "EndTime": "2025-07-10T09:00:00+05:30",
+            "NumAttendees": 0,
+            "Attendees": [],
+            "Summary": "Off Hours"
+        }
+    ],
+    "userthree.amd@gmail.com": [
+        {
+            "StartTime": "2025-07-09T16:00:00+05:30",
+            "EndTime": "2025-07-10T07:30:00+05:30",
+            "NumAttendees": 0,
+            "Attendees": [],
+            "Summary": "Off Hours"
+        }
+    ]
+}
