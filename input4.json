@@ -1,0 +1,14 @@
+{
+    "Request_id": "6118b54f-907b-4451-8d48-dd13d76033d5",
+    "Datetime": "02-07-2025T12:34:55",
+    "Location": "IIT Mumbai",
+    "From": "userone.amd@gmail.com",
+    "Attendees": [
+        {
+            "email": "usertwo.amd@gmail.com"
+        },
+        {
+            "email": "userthree.amd@gmail.com"
+        }
+    ],
+    "EmailContent": "Hi Team. We’ve received the final feedback from the client. Let’s review it together and plan next steps. Let's meet on Wednesday at 10:00 A.M."}
