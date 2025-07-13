@@ -1,6 +1,17 @@
 {
     "userone.amd@gmail.com": [
         {
+            "StartTime": "2025-07-14T09:00:00+05:30",
+            "EndTime": "2025-07-14T09:30:00+05:30",
+            "NumAttendees": 3,
+            "Attendees": [
+                "usertwo.amd@gmail.com",
+                "userone.amd@gmail.com",
+                "userthree.amd@gmail.com"
+            ],
+            "Summary": "Agentic AI Project Status Update"
+        },
+        {
             "StartTime": "2025-07-14T18:00:00+05:30",
             "EndTime": "2025-07-15T09:00:00+05:30",
             "NumAttendees": 0,
@@ -9,6 +20,17 @@
         }
     ],
     "usertwo.amd@gmail.com": [
+        {
+            "StartTime": "2025-07-14T09:00:00+05:30",
+            "EndTime": "2025-07-14T09:30:00+05:30",
+            "NumAttendees": 3,
+            "Attendees": [
+                "usertwo.amd@gmail.com",
+                "userone.amd@gmail.com",
+                "userthree.amd@gmail.com"
+            ],
+            "Summary": "Agentic AI Project Status Update"
+        },
         {
             "StartTime": "2025-07-14T18:00:00+05:30",
             "EndTime": "2025-07-15T09:00:00+05:30",
@@ -24,6 +46,17 @@
             "NumAttendees": 0,
             "Attendees": [],
             "Summary": "1V1 Team Member"
+        },
+        {
+            "StartTime": "2025-07-14T09:00:00+05:30",
+            "EndTime": "2025-07-14T09:30:00+05:30",
+            "NumAttendees": 3,
+            "Attendees": [
+                "usertwo.amd@gmail.com",
+                "userone.amd@gmail.com",
+                "userthree.amd@gmail.com"
+            ],
+            "Summary": "Agentic AI Project Status Update"
         },
         {
             "StartTime": "2025-07-14T16:00:00+05:30",

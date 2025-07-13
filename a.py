@@ -2,6 +2,7 @@ import json
 from datetime import datetime, timezone, timedelta
 from google.oauth2.credentials import Credentials
 from googleapiclient.discovery import build
+import re
 def retrive_calendar_events(user, start, end):
     events_list = []
     token_path = "./Keys/"+user.split("@")[0]+".token"

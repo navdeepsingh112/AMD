@@ -1,24 +1,6 @@
 {
     "userone.amd@gmail.com": [
         {
-            "StartTime": "2025-07-17T10:15:00+05:30",
-            "EndTime": "2025-07-17T10:45:00+05:30",
-            "NumAttendees": 1,
-            "Attendees": [
-                "userone.amd@gmail.com"
-            ],
-            "Summary": "Userone's Conflicting Meeting"
-        },
-        {
-            "StartTime": "2025-07-17T10:15:00+05:30",
-            "EndTime": "2025-07-17T10:45:00+05:30",
-            "NumAttendees": 1,
-            "Attendees": [
-                "userone.amd@gmail.com"
-            ],
-            "Summary": "Userone's Conflicting Meeting"
-        },
-        {
             "StartTime": "2025-07-17T18:00:00+05:30",
             "EndTime": "2025-07-18T09:00:00+05:30",
             "NumAttendees": 0,
@@ -28,22 +10,103 @@
     ],
     "usertwo.amd@gmail.com": [
         {
-            "StartTime": "2025-07-17T10:00:00+05:30",
-            "EndTime": "2025-07-17T10:30:00+05:30",
-            "NumAttendees": 1,
+            "StartTime": "2025-07-17T09:00:00+05:30",
+            "EndTime": "2025-07-17T09:30:00+05:30",
+            "NumAttendees": 3,
             "Attendees": [
-                "usertwo.amd@gmail.com"
+                "usertwo.amd@gmail.com",
+                "userone.amd@gmail.com",
+                "userthree.amd@gmail.com"
             ],
-            "Summary": "Usertwo's Conflicting Meeting"
+            "Summary": "Meet to discuss ongoing Projects"
+        },
+        {
+            "StartTime": "2025-07-17T09:30:00+05:30",
+            "EndTime": "2025-07-17T10:00:00+05:30",
+            "NumAttendees": 3,
+            "Attendees": [
+                "usertwo.amd@gmail.com",
+                "userone.amd@gmail.com",
+                "userthree.amd@gmail.com"
+            ],
+            "Summary": "Meet to discuss ongoing Projects"
+        },
+        {
+            "StartTime": "2025-07-17T09:30:00+05:30",
+            "EndTime": "2025-07-17T10:00:00+05:30",
+            "NumAttendees": 3,
+            "Attendees": [
+                "usertwo.amd@gmail.com",
+                "userone.amd@gmail.com",
+                "userthree.amd@gmail.com"
+            ],
+            "Summary": "Meet to discuss ongoing Projects"
         },
         {
             "StartTime": "2025-07-17T10:00:00+05:30",
             "EndTime": "2025-07-17T10:30:00+05:30",
-            "NumAttendees": 1,
+            "NumAttendees": 3,
             "Attendees": [
-                "usertwo.amd@gmail.com"
+                "usertwo.amd@gmail.com",
+                "userone.amd@gmail.com",
+                "userthree.amd@gmail.com"
             ],
-            "Summary": "Usertwo's Conflicting Meeting"
+            "Summary": "Meet to discuss ongoing Projects"
+        },
+        {
+            "StartTime": "2025-07-17T10:00:00+05:30",
+            "EndTime": "2025-07-17T10:30:00+05:30",
+            "NumAttendees": 3,
+            "Attendees": [
+                "usertwo.amd@gmail.com",
+                "userone.amd@gmail.com",
+                "userthree.amd@gmail.com"
+            ],
+            "Summary": "Meet to discuss ongoing Projects"
+        },
+        {
+            "StartTime": "2025-07-17T10:30:00+05:30",
+            "EndTime": "2025-07-17T11:00:00+05:30",
+            "NumAttendees": 3,
+            "Attendees": [
+                "usertwo.amd@gmail.com",
+                "userone.amd@gmail.com",
+                "userthree.amd@gmail.com"
+            ],
+            "Summary": "Meet to discuss ongoing Projects"
+        },
+        {
+            "StartTime": "2025-07-17T10:30:00+05:30",
+            "EndTime": "2025-07-17T11:00:00+05:30",
+            "NumAttendees": 3,
+            "Attendees": [
+                "usertwo.amd@gmail.com",
+                "userone.amd@gmail.com",
+                "userthree.amd@gmail.com"
+            ],
+            "Summary": "Meet to discuss ongoing Projects"
+        },
+        {
+            "StartTime": "2025-07-17T11:00:00+05:30",
+            "EndTime": "2025-07-17T11:30:00+05:30",
+            "NumAttendees": 3,
+            "Attendees": [
+                "usertwo.amd@gmail.com",
+                "userone.amd@gmail.com",
+                "userthree.amd@gmail.com"
+            ],
+            "Summary": "Meet to discuss ongoing Projects"
+        },
+        {
+            "StartTime": "2025-07-17T11:00:00+05:30",
+            "EndTime": "2025-07-17T11:30:00+05:30",
+            "NumAttendees": 3,
+            "Attendees": [
+                "usertwo.amd@gmail.com",
+                "userone.amd@gmail.com",
+                "userthree.amd@gmail.com"
+            ],
+            "Summary": "Meet to discuss ongoing Projects"
         },
         {
             "StartTime": "2025-07-17T18:00:00+05:30",
@@ -54,6 +117,105 @@
         }
     ],
     "userthree.amd@gmail.com": [
+        {
+            "StartTime": "2025-07-17T09:00:00+05:30",
+            "EndTime": "2025-07-17T09:30:00+05:30",
+            "NumAttendees": 3,
+            "Attendees": [
+                "usertwo.amd@gmail.com",
+                "userone.amd@gmail.com",
+                "userthree.amd@gmail.com"
+            ],
+            "Summary": "Meet to discuss ongoing Projects"
+        },
+        {
+            "StartTime": "2025-07-17T09:30:00+05:30",
+            "EndTime": "2025-07-17T10:00:00+05:30",
+            "NumAttendees": 3,
+            "Attendees": [
+                "usertwo.amd@gmail.com",
+                "userone.amd@gmail.com",
+                "userthree.amd@gmail.com"
+            ],
+            "Summary": "Meet to discuss ongoing Projects"
+        },
+        {
+            "StartTime": "2025-07-17T09:30:00+05:30",
+            "EndTime": "2025-07-17T10:00:00+05:30",
+            "NumAttendees": 3,
+            "Attendees": [
+                "usertwo.amd@gmail.com",
+                "userone.amd@gmail.com",
+                "userthree.amd@gmail.com"
+            ],
+            "Summary": "Meet to discuss ongoing Projects"
+        },
+        {
+            "StartTime": "2025-07-17T10:00:00+05:30",
+            "EndTime": "2025-07-17T10:30:00+05:30",
+            "NumAttendees": 3,
+            "Attendees": [
+                "usertwo.amd@gmail.com",
+                "userone.amd@gmail.com",
+                "userthree.amd@gmail.com"
+            ],
+            "Summary": "Meet to discuss ongoing Projects"
+        },
+        {
+            "StartTime": "2025-07-17T10:00:00+05:30",
+            "EndTime": "2025-07-17T10:30:00+05:30",
+            "NumAttendees": 3,
+            "Attendees": [
+                "usertwo.amd@gmail.com",
+                "userone.amd@gmail.com",
+                "userthree.amd@gmail.com"
+            ],
+            "Summary": "Meet to discuss ongoing Projects"
+        },
+        {
+            "StartTime": "2025-07-17T10:30:00+05:30",
+            "EndTime": "2025-07-17T11:00:00+05:30",
+            "NumAttendees": 3,
+            "Attendees": [
+                "usertwo.amd@gmail.com",
+                "userone.amd@gmail.com",
+                "userthree.amd@gmail.com"
+            ],
+            "Summary": "Meet to discuss ongoing Projects"
+        },
+        {
+            "StartTime": "2025-07-17T10:30:00+05:30",
+            "EndTime": "2025-07-17T11:00:00+05:30",
+            "NumAttendees": 3,
+            "Attendees": [
+                "usertwo.amd@gmail.com",
+                "userone.amd@gmail.com",
+                "userthree.amd@gmail.com"
+            ],
+            "Summary": "Meet to discuss ongoing Projects"
+        },
+        {
+            "StartTime": "2025-07-17T11:00:00+05:30",
+            "EndTime": "2025-07-17T11:30:00+05:30",
+            "NumAttendees": 3,
+            "Attendees": [
+                "usertwo.amd@gmail.com",
+                "userone.amd@gmail.com",
+                "userthree.amd@gmail.com"
+            ],
+            "Summary": "Meet to discuss ongoing Projects"
+        },
+        {
+            "StartTime": "2025-07-17T11:00:00+05:30",
+            "EndTime": "2025-07-17T11:30:00+05:30",
+            "NumAttendees": 3,
+            "Attendees": [
+                "usertwo.amd@gmail.com",
+                "userone.amd@gmail.com",
+                "userthree.amd@gmail.com"
+            ],
+            "Summary": "Meet to discuss ongoing Projects"
+        },
         {
             "StartTime": "2025-07-17T16:00:00+05:30",
             "EndTime": "2025-07-18T07:30:00+05:30",

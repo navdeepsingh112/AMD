@@ -1,0 +1,50 @@
+{
+    "userone.amd@gmail.com": [
+        {
+            "StartTime": "2025-07-05",
+            "EndTime": "2025-07-06",
+            "NumAttendees": 0,
+            "Attendees": [],
+            "Summary": "Weekend"
+        },
+        {
+            "StartTime": "2025-07-05T18:00:00+05:30",
+            "EndTime": "2025-07-06T09:00:00+05:30",
+            "NumAttendees": 0,
+            "Attendees": [],
+            "Summary": "Off Hours"
+        }
+    ],
+    "usertwo.amd@gmail.com": [
+        {
+            "StartTime": "2025-07-05",
+            "EndTime": "2025-07-06",
+            "NumAttendees": 0,
+            "Attendees": [],
+            "Summary": "Weekend"
+        },
+        {
+            "StartTime": "2025-07-05T18:00:00+05:30",
+            "EndTime": "2025-07-06T09:00:00+05:30",
+            "NumAttendees": 0,
+            "Attendees": [],
+            "Summary": "Off Hours"
+        }
+    ],
+    "userthree.amd@gmail.com": [
+        {
+            "StartTime": "2025-07-05",
+            "EndTime": "2025-07-06",
+            "NumAttendees": 0,
+            "Attendees": [],
+            "Summary": "Weekend"
+        },
+        {
+            "StartTime": "2025-07-05T16:00:00+05:30",
+            "EndTime": "2025-07-06T07:30:00+05:30",
+            "NumAttendees": 0,
+            "Attendees": [],
+            "Summary": "Off Hours"
+        }
+    ]
+}

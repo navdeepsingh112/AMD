@@ -74,8 +74,8 @@ def organize_events_by_date(all_events):
 users = ["userone.amd@gmail.com", "usertwo.amd@gmail.com", "userthree.amd@gmail.com"]
 
 # Define date range
-start = "2025-07-09T00:00:00+05:30"
-end = "2025-07-30T23:59:59+05:30"
+start = "2025-07-01T00:00:00+05:30"
+end = "2025-07-10T23:59:59+05:30"
 
 # Create output folder
 os.makedirs("cal", exist_ok=True)
